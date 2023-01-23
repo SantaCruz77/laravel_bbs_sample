@@ -13,5 +13,5 @@
         <textarea name="body"></textarea>
     </div>
 
-    <input type="submit" value="投稿">
+    <input type="submit" value="投稿" >
 </form>
